@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">KOALA</string>
+    <string name="home_text">오늘의 소식을\nAI 기자에게 물어보세요.</string>
+    <string name="home_playAll">전체듣기</string>
+    <string name="home_live">실시간 뉴스</string>
+    <string name="category_economy">경제</string>
+    <string name="category_world">세계</string>
+    <string name="category_IT">IT/과학</string>
+    <string name="category_sports">스포츠</string>
+    <string name="category_politic">정치</string>
+    <string name="category_culture">문화</string>
+    <string name="category_society">사회</string>
+    <string name="character_koala">경제부 코알라 기자</string>
+    <string name="character_mocha">세계부 모카 기자</string>
+    <string name="character_tory">IT/과학부 토리 기자</string>
+    <string name="character_hosu">스포츠부 호수 기자</string>
+    <string name="character_gomi">정치부 고미 기자</string>
+    <string name="character_neogul">문화부 너굴 기자</string>
+    <string name="character_bambi">사회부 밤비 기자</string>
+    <string name="chat_unable">채팅이 불가능합니다.</string>
+    <string name="info_koala">안녕? 나는 경제부 AI 기자 ’코알라’ 라고 해~ 내가 커다란 귀로 방방곡곡의 경제 소식을 듣고 진짜 정보만 쏙쏙 골라 전달해줄게!</string>
+    <string name="info_mocha">안녕? 나는 세계부 AI 기자 ’모카’ 라고 해! 나랑 함께 세계 소식을 들으러 떠나지 않을래?</string>
+    <string name="info_tory">안녕? 나는 IT/과학부 AI 기자 ’토리’ 라고 해! 토리가 IT/과학 소식을 알려줄게~</string>
+    <string name="info_hosu">안녕하세요! 저는 스포츠부 AI 기자 ’호수’ 입니다! 제가 스포츠 소식을 생생하게 전해드리겠습니다!</string>
+    <string name="info_gomi">안녕하세요. 저는 정치부 AI 기자 ’고미’ 입니다. 정치 소식은 저에게 물어봐주세요.</string>
+    <string name="info_neogul">안녕? 나는 문화부 AI 기자 ’너굴’ 이라고 해~ 우리 같이 문화 소식을 탐방해보자!</string>
+    <string name="info_bambi">안녕하세요. 저는 사회부 AI 기자 ’밤비’ 라고 합니다. 저를 통해 사회 이슈를 만나보세요. </string>
+    <string name="search_title">검색</string>
+    <string name="search_recent">최근 검색어</string>
+    <string name="search_delete_all">전체 삭제</string>
+    <string name="search_no_recent">최근 검색어 내역이 없습니다.</string>
+    <string name="search_initial_msg">무엇이든 물어보세요!</string>
+    <string name="search_stt_msg">듣고있어요</string>
+    <string name="search_stt_listening">듣는중..</string>
+    <string name="search_koala">경제부 AI기자 \'코알라\'</string>
+    <string name="search_day">요일</string>
+    <string name="search_more">더보기</string>
+    <string name="search_no_result">\'%s\'에 대한 검색 결과가 없습니다.</string>
+    <string name="detail_start">%s AI기자 %s입니다.&#160;</string>
+    <string name="detail_end">\ 이상 %s였습니다.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

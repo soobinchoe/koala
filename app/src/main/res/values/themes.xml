@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Koala" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/background_black</item>
+        <item name="colorPrimaryVariant">@color/background_black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/background_black</item>
+        <!-- Customize your theme here. -->
+        <item name="android:editTextColor">@android:color/white</item>
+    </style>
+
+
+</resources>
